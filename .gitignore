@@ -23,6 +23,10 @@ wheels/
 share/python-wheels/
 *.egg-info/
 .installed.cfg
+.env
+cache/
+temp_media/
+
 *.egg
 MANIFEST
 
